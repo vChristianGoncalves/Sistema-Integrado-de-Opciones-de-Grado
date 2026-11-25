@@ -1,0 +1,10 @@
+[
+  { "id": "DOC-01", "name": "Docente asesor FCE 1", "facultyCode": "FCE" },
+  { "id": "DOC-02", "name": "Docente asesor FCE 2", "facultyCode": "FCE" },
+  { "id": "DOC-03", "name": "Docente asesor FCS 1", "facultyCode": "FCS" },
+  { "id": "DOC-04", "name": "Docente asesor FCS 2", "facultyCode": "FCS" },
+  { "id": "DOC-05", "name": "Docente asesor FCHS 1", "facultyCode": "FCHS" },
+  { "id": "DOC-06", "name": "Docente asesor FE 1", "facultyCode": "FE" },
+  { "id": "DOC-07", "name": "Docente asesor FI 1", "facultyCode": "FI" },
+  { "id": "DOC-08", "name": "Docente asesor FI 2", "facultyCode": "FI" }
+]

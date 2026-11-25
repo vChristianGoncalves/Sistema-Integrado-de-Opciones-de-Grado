@@ -1,0 +1,1463 @@
+[
+  {
+    "id": "SOL-2026-0158",
+    "radicado": "OG-2026-0158",
+    "studentName": "Camilo Andrés Pardo Ríos",
+    "studentCode": "100170000",
+    "documentNumber": "1000000000",
+    "studentEmail": "cpardo10@estudiante.ibero.edu.co",
+    "program": "Administración Logística",
+    "facultyCode": "FCE",
+    "faculty": "Facultad de Ciencias Empresariales",
+    "studyMode": "Presencial",
+    "level": "pregrado",
+    "gpa": 3.7,
+    "academicProgress": 72,
+    "researchGrade": null,
+    "modalityId": "MOD-PP",
+    "modalityName": "Proyecto particular",
+    "period": "202620",
+    "course": "Procesos Investigativos",
+    "nrc": null,
+    "academicEndorsement": "pendiente",
+    "financialEndorsement": "pendiente",
+    "advisor": null,
+    "status": "pendiente",
+    "submittedAt": "2026-08-13T16:42:00-05:00",
+    "updatedAt": "2026-08-13T16:42:00-05:00",
+    "details": [
+      {
+        "key": "titulo",
+        "label": "Título tentativo del proyecto",
+        "value": "Trazabilidad de inventarios en centros de distribución de pymes bogotanas"
+      },
+      {
+        "key": "lineaInvestigacion",
+        "label": "Línea institucional de investigación",
+        "value": "Gestión de la cadena de suministro"
+      },
+      {
+        "key": "integrantes",
+        "label": "Número de integrantes",
+        "value": "2"
+      },
+      {
+        "key": "coautores",
+        "label": "Nombres e ID de los coautores",
+        "value": "Laura Sofía Méndez Ortiz · ID 100188104"
+      }
+    ],
+    "documents": [
+      {
+        "key": "ficha_resumen",
+        "label": "Ficha de resumen del proyecto",
+        "fileName": "ficha_resumen_100170000.pdf",
+        "size": 150000,
+        "status": "pendiente"
+      }
+    ],
+    "requirements": [
+      {
+        "id": "REQ-AVANCE-60",
+        "name": "Avance académico mínimo",
+        "expected": "≥ 60 %",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-COMPONENTE-INV",
+        "name": "Componente investigativo",
+        "expected": "Cursando o aprobado",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-ACADEMICO",
+        "name": "Aval académico del programa",
+        "expected": "Aval del programa",
+        "status": "pendiente"
+      },
+      {
+        "id": "REQ-AVAL-FINANCIERO",
+        "name": "Aval financiero",
+        "expected": "Sello financiero",
+        "status": "pendiente"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-08-13T16:42:00-05:00",
+        "action": "Preinscripción radicada",
+        "by": "Camilo Andrés Pardo Ríos",
+        "comment": null
+      }
+    ],
+    "observations": ""
+  },
+  {
+    "id": "SOL-2026-0157",
+    "radicado": "OG-2026-0157",
+    "studentName": "Paula Andrea Gómez Lozano",
+    "studentCode": "100170731",
+    "documentNumber": "1000007919",
+    "studentEmail": "pgomez11@estudiante.ibero.edu.co",
+    "program": "Fonoaudiología",
+    "facultyCode": "FCS",
+    "faculty": "Facultad de Ciencias de la Salud",
+    "studyMode": "Presencial",
+    "level": "pregrado",
+    "gpa": 4.2,
+    "academicProgress": 74,
+    "researchGrade": null,
+    "modalityId": "MOD-MON",
+    "modalityName": "Monitoria de investigación / innovación",
+    "period": "202620",
+    "course": "Procesos Investigativos",
+    "nrc": null,
+    "academicEndorsement": "pendiente",
+    "financialEndorsement": "pendiente",
+    "advisor": null,
+    "status": "pendiente",
+    "submittedAt": "2026-08-12T10:15:00-05:00",
+    "updatedAt": "2026-08-12T10:15:00-05:00",
+    "details": [
+      {
+        "key": "tipoMonitoria",
+        "label": "Tipo de monitoria",
+        "value": "Módulo / asignatura"
+      },
+      {
+        "key": "asignatura",
+        "label": "Asignatura o revista",
+        "value": "Investigación II"
+      },
+      {
+        "key": "docenteRecomienda",
+        "label": "Docente que te recomienda",
+        "value": "Docente del programa de Fonoaudiología"
+      }
+    ],
+    "documents": [
+      {
+        "key": "recomendacion_docente",
+        "label": "Recomendación docente",
+        "fileName": "recomendacion_docente_100170731.pdf",
+        "size": 187000,
+        "status": "pendiente"
+      }
+    ],
+    "requirements": [
+      {
+        "id": "REQ-AVANCE-60",
+        "name": "Avance académico mínimo",
+        "expected": "≥ 60 %",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-COMPONENTE-INV",
+        "name": "Componente investigativo",
+        "expected": "Cursando o aprobado",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-PROMEDIO-38",
+        "name": "Promedio ponderado",
+        "expected": "≥ 3,8",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-RECOMENDACION",
+        "name": "Recomendación docente",
+        "expected": "Formato diligenciado y firmado",
+        "status": "pendiente"
+      },
+      {
+        "id": "REQ-AVAL-ACADEMICO",
+        "name": "Aval académico del programa",
+        "expected": "Aval del programa",
+        "status": "pendiente"
+      },
+      {
+        "id": "REQ-AVAL-FINANCIERO",
+        "name": "Aval financiero",
+        "expected": "Sello financiero",
+        "status": "pendiente"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-08-12T10:15:00-05:00",
+        "action": "Preinscripción radicada",
+        "by": "Paula Andrea Gómez Lozano",
+        "comment": null
+      }
+    ],
+    "observations": ""
+  },
+  {
+    "id": "SOL-2026-0156",
+    "radicado": "OG-2026-0156",
+    "studentName": "Juan Sebastián Torres Vega",
+    "studentCode": "100171462",
+    "documentNumber": "1000015838",
+    "studentEmail": "jtorres12@estudiante.ibero.edu.co",
+    "program": "Ingeniería de Software",
+    "facultyCode": "FI",
+    "faculty": "Facultad de Ingeniería",
+    "studyMode": "Virtual",
+    "level": "pregrado",
+    "gpa": 3.6,
+    "academicProgress": 81,
+    "researchGrade": 3.9,
+    "modalityId": "MOD-APD",
+    "modalityName": "Vinculación a proyecto docente como asistente de investigación",
+    "period": "202634",
+    "course": "Trabajo de Grado I",
+    "nrc": "34012",
+    "academicEndorsement": "aprobado",
+    "financialEndorsement": "pendiente",
+    "advisor": null,
+    "status": "en_revision",
+    "submittedAt": "2026-08-11T09:05:00-05:00",
+    "updatedAt": "2026-08-31T11:11:00-05:00",
+    "details": [
+      {
+        "key": "areaInteres",
+        "label": "Área o temática de interés",
+        "value": "Analítica de datos aplicada a la educación"
+      },
+      {
+        "key": "esSemillerista",
+        "label": "¿Perteneces a un semillero de investigación?",
+        "value": "No"
+      }
+    ],
+    "documents": [],
+    "requirements": [
+      {
+        "id": "REQ-AVANCE-60",
+        "name": "Avance académico mínimo",
+        "expected": "≥ 60 %",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-COMPONENTE-INV",
+        "name": "Componente investigativo",
+        "expected": "Cursando o aprobado",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-DISPONIBILIDAD",
+        "name": "Disponibilidad de cupos",
+        "expected": "Cupo asignado por la Dirección",
+        "status": "pendiente"
+      },
+      {
+        "id": "REQ-AVAL-ACADEMICO",
+        "name": "Aval académico del programa",
+        "expected": "Aval del programa",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-FINANCIERO",
+        "name": "Aval financiero",
+        "expected": "Sello financiero",
+        "status": "pendiente"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-08-11T09:05:00-05:00",
+        "action": "Preinscripción radicada",
+        "by": "Juan Sebastián Torres Vega",
+        "comment": null
+      },
+      {
+        "date": "2026-08-31T11:11:00-05:00",
+        "action": "Bases remitidas al programa para aval académico y financiero",
+        "by": "Coordinación de Investigación y Creación",
+        "comment": null
+      }
+    ],
+    "observations": "Trabajo en jornada diurna; solicito, si es posible, asesorías en horario nocturno."
+  },
+  {
+    "id": "SOL-2026-0155",
+    "radicado": "OG-2026-0155",
+    "studentName": "Diana Marcela Rojas Peña",
+    "studentCode": "100172193",
+    "documentNumber": "1000023757",
+    "studentEmail": "drojas13@estudiante.ibero.edu.co",
+    "program": "Psicología",
+    "facultyCode": "FCHS",
+    "faculty": "Facultad de Ciencias Humanas y Sociales",
+    "studyMode": "Presencial",
+    "level": "pregrado",
+    "gpa": 4.3,
+    "academicProgress": 78,
+    "researchGrade": 4.5,
+    "modalityId": "MOD-SEM",
+    "modalityName": "Proyecto de semillero de investigación o innovación",
+    "period": "202620",
+    "course": "Trabajo de Grado I",
+    "nrc": "20145",
+    "academicEndorsement": "aprobado",
+    "financialEndorsement": "aprobado",
+    "advisor": "Docente asesor FCHS 1",
+    "status": "aprobada",
+    "submittedAt": "2026-08-10T14:20:00-05:00",
+    "updatedAt": "2026-09-09T09:02:00-05:00",
+    "details": [
+      {
+        "key": "semillero",
+        "label": "Nombre del semillero",
+        "value": "Semillero de Psicología y Bienestar"
+      },
+      {
+        "key": "docenteSemillero",
+        "label": "Docente asesor del semillero",
+        "value": "Docente asesor de semillero FCHS"
+      },
+      {
+        "key": "titulo",
+        "label": "Título tentativo del proyecto",
+        "value": "Bienestar psicológico y uso de redes sociales en estudiantes universitarios"
+      },
+      {
+        "key": "integrantes",
+        "label": "Número de integrantes",
+        "value": "3"
+      }
+    ],
+    "documents": [
+      {
+        "key": "aval_semillero",
+        "label": "Aval del docente asesor del semillero",
+        "fileName": "aval_semillero_100172193.pdf",
+        "size": 261000,
+        "status": "validado"
+      }
+    ],
+    "requirements": [
+      {
+        "id": "REQ-AVANCE-60",
+        "name": "Avance académico mínimo",
+        "expected": "≥ 60 %",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-COMPONENTE-INV",
+        "name": "Componente investigativo",
+        "expected": "Cursando o aprobado",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-SEMILLERO",
+        "name": "Miembro activo de semillero",
+        "expected": "≥ 2 periodos consecutivos",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-SEMILLERO",
+        "name": "Aval del docente asesor del semillero",
+        "expected": "Aval firmado",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-ACADEMICO",
+        "name": "Aval académico del programa",
+        "expected": "Aval del programa",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-FINANCIERO",
+        "name": "Aval financiero",
+        "expected": "Sello financiero",
+        "status": "cumple"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-08-10T14:20:00-05:00",
+        "action": "Preinscripción radicada",
+        "by": "Diana Marcela Rojas Peña",
+        "comment": null
+      },
+      {
+        "date": "2026-08-31T11:11:00-05:00",
+        "action": "Bases remitidas al programa para aval académico y financiero",
+        "by": "Coordinación de Investigación y Creación",
+        "comment": null
+      },
+      {
+        "date": "2026-09-09T09:02:00-05:00",
+        "action": "Aprobada y docente asignado",
+        "by": "Coordinación de Investigación y Creación",
+        "comment": "Cumple requisitos, avales académico y financiero aprobados. Se asigna docente asesor y se solicita creación de aula."
+      }
+    ],
+    "observations": ""
+  },
+  {
+    "id": "SOL-2026-0154",
+    "radicado": "OG-2026-0154",
+    "studentName": "Andrés Felipe Muñoz Cárdenas",
+    "studentCode": "100172924",
+    "documentNumber": "1000031676",
+    "studentEmail": "amunoz14@estudiante.ibero.edu.co",
+    "program": "Administración Financiera",
+    "facultyCode": "FCE",
+    "faculty": "Facultad de Ciencias Empresariales",
+    "studyMode": "Virtual",
+    "level": "pregrado",
+    "gpa": 3.5,
+    "academicProgress": 70,
+    "researchGrade": 3.8,
+    "modalityId": "MOD-PAS",
+    "modalityName": "Pasantía investigativa",
+    "period": "202634",
+    "course": "Procesos Investigativos",
+    "nrc": null,
+    "academicEndorsement": "aprobado",
+    "financialEndorsement": "aprobado",
+    "advisor": null,
+    "status": "rechazada",
+    "submittedAt": "2026-08-09T11:48:00-05:00",
+    "updatedAt": "2026-09-09T09:02:00-05:00",
+    "details": [
+      {
+        "key": "institucionAliada",
+        "label": "Institución aliada de destino",
+        "value": "Universidad aliada (México)"
+      },
+      {
+        "key": "ubicacion",
+        "label": "Ciudad y país",
+        "value": "Guadalajara, México"
+      },
+      {
+        "key": "modalidadPasantia",
+        "label": "Modalidad de la pasantía",
+        "value": "Virtual"
+      },
+      {
+        "key": "investigadorContacto",
+        "label": "Investigador de contacto",
+        "value": "Investigador de la institución aliada"
+      }
+    ],
+    "documents": [
+      {
+        "key": "carta_intencion",
+        "label": "Carta de intención",
+        "fileName": "carta_intencion_100172924.pdf",
+        "size": 298000,
+        "status": "validado"
+      }
+    ],
+    "requirements": [
+      {
+        "id": "REQ-AVANCE-60",
+        "name": "Avance académico mínimo",
+        "expected": "≥ 60 %",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-COMPONENTE-INV",
+        "name": "Componente investigativo",
+        "expected": "Cursando o aprobado",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-PROMEDIO-38",
+        "name": "Promedio ponderado",
+        "expected": "≥ 3,8",
+        "status": "no_cumple"
+      },
+      {
+        "id": "REQ-CARTA-INTENCION",
+        "name": "Carta de intención",
+        "expected": "Carta de la institución aliada",
+        "status": "pendiente"
+      },
+      {
+        "id": "REQ-AVAL-ACADEMICO",
+        "name": "Aval académico del programa",
+        "expected": "Aval del programa",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-FINANCIERO",
+        "name": "Aval financiero",
+        "expected": "Sello financiero",
+        "status": "cumple"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-08-09T11:48:00-05:00",
+        "action": "Preinscripción radicada",
+        "by": "Andrés Felipe Muñoz Cárdenas",
+        "comment": null
+      },
+      {
+        "date": "2026-08-31T11:11:00-05:00",
+        "action": "Bases remitidas al programa para aval académico y financiero",
+        "by": "Coordinación de Investigación y Creación",
+        "comment": null
+      },
+      {
+        "date": "2026-09-09T09:02:00-05:00",
+        "action": "No cumple requisitos",
+        "by": "Coordinación de Investigación y Creación",
+        "comment": "No cumple el promedio ponderado mínimo de 3,8 exigido para la pasantía investigativa (art. 64)."
+      }
+    ],
+    "observations": ""
+  },
+  {
+    "id": "SOL-2026-0153",
+    "radicado": "OG-2026-0153",
+    "studentName": "Natalia Herrera Quintero",
+    "studentCode": "100173655",
+    "documentNumber": "1000039595",
+    "studentEmail": "nherrera15@estudiante.ibero.edu.co",
+    "program": "Fisioterapia",
+    "facultyCode": "FCS",
+    "faculty": "Facultad de Ciencias de la Salud",
+    "studyMode": "Presencial",
+    "level": "pregrado",
+    "gpa": 4.0,
+    "academicProgress": 76,
+    "researchGrade": 4.1,
+    "modalityId": "MOD-PP",
+    "modalityName": "Proyecto particular",
+    "period": "202620",
+    "course": "Trabajo de Grado I",
+    "nrc": "20311",
+    "academicEndorsement": "aprobado",
+    "financialEndorsement": "pendiente",
+    "advisor": null,
+    "status": "en_revision",
+    "submittedAt": "2026-08-08T17:30:00-05:00",
+    "updatedAt": "2026-08-31T11:11:00-05:00",
+    "details": [
+      {
+        "key": "titulo",
+        "label": "Título tentativo del proyecto",
+        "value": "Efectividad de pausas activas en trabajadores de oficina con dolor lumbar"
+      },
+      {
+        "key": "lineaInvestigacion",
+        "label": "Línea institucional de investigación",
+        "value": "Salud y movimiento humano"
+      },
+      {
+        "key": "integrantes",
+        "label": "Número de integrantes",
+        "value": "1"
+      }
+    ],
+    "documents": [],
+    "requirements": [
+      {
+        "id": "REQ-AVANCE-60",
+        "name": "Avance académico mínimo",
+        "expected": "≥ 60 %",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-COMPONENTE-INV",
+        "name": "Componente investigativo",
+        "expected": "Cursando o aprobado",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-ACADEMICO",
+        "name": "Aval académico del programa",
+        "expected": "Aval del programa",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-FINANCIERO",
+        "name": "Aval financiero",
+        "expected": "Sello financiero",
+        "status": "pendiente"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-08-08T17:30:00-05:00",
+        "action": "Preinscripción radicada",
+        "by": "Natalia Herrera Quintero",
+        "comment": null
+      },
+      {
+        "date": "2026-08-31T11:11:00-05:00",
+        "action": "Bases remitidas al programa para aval académico y financiero",
+        "by": "Coordinación de Investigación y Creación",
+        "comment": null
+      }
+    ],
+    "observations": ""
+  },
+  {
+    "id": "SOL-2026-0152",
+    "radicado": "OG-2026-0152",
+    "studentName": "Sergio Alejandro Díaz Molina",
+    "studentCode": "100174386",
+    "documentNumber": "1000047514",
+    "studentEmail": "sdiaz16@estudiante.ibero.edu.co",
+    "program": "Marketing y Negocios Internacionales",
+    "facultyCode": "FCE",
+    "faculty": "Facultad de Ciencias Empresariales",
+    "studyMode": "Presencial",
+    "level": "pregrado",
+    "gpa": 3.8,
+    "academicProgress": 66,
+    "researchGrade": null,
+    "modalityId": "MOD-APD",
+    "modalityName": "Vinculación a proyecto docente como asistente de investigación",
+    "period": "202620",
+    "course": "Procesos Investigativos",
+    "nrc": null,
+    "academicEndorsement": "pendiente",
+    "financialEndorsement": "pendiente",
+    "advisor": null,
+    "status": "pendiente",
+    "submittedAt": "2026-08-07T08:55:00-05:00",
+    "updatedAt": "2026-08-07T08:55:00-05:00",
+    "details": [
+      {
+        "key": "areaInteres",
+        "label": "Área o temática de interés",
+        "value": "Comercio exterior y logística internacional"
+      },
+      {
+        "key": "esSemillerista",
+        "label": "¿Perteneces a un semillero de investigación?",
+        "value": "Sí"
+      }
+    ],
+    "documents": [],
+    "requirements": [
+      {
+        "id": "REQ-AVANCE-60",
+        "name": "Avance académico mínimo",
+        "expected": "≥ 60 %",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-COMPONENTE-INV",
+        "name": "Componente investigativo",
+        "expected": "Cursando o aprobado",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-DISPONIBILIDAD",
+        "name": "Disponibilidad de cupos",
+        "expected": "Cupo asignado por la Dirección",
+        "status": "pendiente"
+      },
+      {
+        "id": "REQ-AVAL-ACADEMICO",
+        "name": "Aval académico del programa",
+        "expected": "Aval del programa",
+        "status": "pendiente"
+      },
+      {
+        "id": "REQ-AVAL-FINANCIERO",
+        "name": "Aval financiero",
+        "expected": "Sello financiero",
+        "status": "pendiente"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-08-07T08:55:00-05:00",
+        "action": "Preinscripción radicada",
+        "by": "Sergio Alejandro Díaz Molina",
+        "comment": null
+      }
+    ],
+    "observations": ""
+  },
+  {
+    "id": "SOL-2026-0151",
+    "radicado": "OG-2026-0151",
+    "studentName": "Mariana Castro Beltrán",
+    "studentCode": "100175117",
+    "documentNumber": "1000055433",
+    "studentEmail": "mcastro17@estudiante.ibero.edu.co",
+    "program": "Licenciatura en Educación Infantil",
+    "facultyCode": "FE",
+    "faculty": "Facultad de Educación",
+    "studyMode": "Virtual",
+    "level": "pregrado",
+    "gpa": 4.4,
+    "academicProgress": 83,
+    "researchGrade": 4.6,
+    "modalityId": "MOD-PP",
+    "modalityName": "Proyecto particular",
+    "period": "202634",
+    "course": "Trabajo de Grado I",
+    "nrc": "34220",
+    "academicEndorsement": "aprobado",
+    "financialEndorsement": "aprobado",
+    "advisor": "Docente asesor FE 1",
+    "status": "aprobada",
+    "submittedAt": "2026-08-05T15:10:00-05:00",
+    "updatedAt": "2026-09-09T09:02:00-05:00",
+    "details": [
+      {
+        "key": "titulo",
+        "label": "Título tentativo del proyecto",
+        "value": "Estrategias lúdicas para el desarrollo del lenguaje en primera infancia"
+      },
+      {
+        "key": "lineaInvestigacion",
+        "label": "Línea institucional de investigación",
+        "value": "Educación inclusiva y primera infancia"
+      },
+      {
+        "key": "integrantes",
+        "label": "Número de integrantes",
+        "value": "2"
+      },
+      {
+        "key": "coautores",
+        "label": "Nombres e ID de los coautores",
+        "value": "Estudiante coautora · ID 100190277"
+      }
+    ],
+    "documents": [],
+    "requirements": [
+      {
+        "id": "REQ-AVANCE-60",
+        "name": "Avance académico mínimo",
+        "expected": "≥ 60 %",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-COMPONENTE-INV",
+        "name": "Componente investigativo",
+        "expected": "Cursando o aprobado",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-ACADEMICO",
+        "name": "Aval académico del programa",
+        "expected": "Aval del programa",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-FINANCIERO",
+        "name": "Aval financiero",
+        "expected": "Sello financiero",
+        "status": "cumple"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-08-05T15:10:00-05:00",
+        "action": "Preinscripción radicada",
+        "by": "Mariana Castro Beltrán",
+        "comment": null
+      },
+      {
+        "date": "2026-08-31T11:11:00-05:00",
+        "action": "Bases remitidas al programa para aval académico y financiero",
+        "by": "Coordinación de Investigación y Creación",
+        "comment": null
+      },
+      {
+        "date": "2026-09-09T09:02:00-05:00",
+        "action": "Aprobada y docente asignado",
+        "by": "Coordinación de Investigación y Creación",
+        "comment": "Cumple requisitos, avales académico y financiero aprobados. Se asigna docente asesor y se solicita creación de aula."
+      }
+    ],
+    "observations": "Trabajo en jornada diurna; solicito, si es posible, asesorías en horario nocturno."
+  },
+  {
+    "id": "SOL-2026-0150",
+    "radicado": "OG-2026-0150",
+    "studentName": "Kevin Alexander Suárez Niño",
+    "studentCode": "100175848",
+    "documentNumber": "1000063352",
+    "studentEmail": "ksuarez18@estudiante.ibero.edu.co",
+    "program": "Ingeniería Industrial",
+    "facultyCode": "FI",
+    "faculty": "Facultad de Ingeniería",
+    "studyMode": "Virtual",
+    "level": "pregrado",
+    "gpa": 3.5,
+    "academicProgress": 79,
+    "researchGrade": 3.6,
+    "modalityId": "MOD-PP",
+    "modalityName": "Proyecto particular",
+    "period": "202634",
+    "course": "Trabajo de Grado I",
+    "nrc": "34018",
+    "academicEndorsement": "aprobado",
+    "financialEndorsement": "no_aprobado",
+    "advisor": null,
+    "status": "devuelta",
+    "submittedAt": "2026-08-04T10:02:00-05:00",
+    "updatedAt": "2026-09-09T09:02:00-05:00",
+    "details": [
+      {
+        "key": "titulo",
+        "label": "Título tentativo del proyecto",
+        "value": "Balanceo de líneas de producción en una empresa de alimentos"
+      },
+      {
+        "key": "lineaInvestigacion",
+        "label": "Línea institucional de investigación",
+        "value": "Productividad y operaciones"
+      },
+      {
+        "key": "integrantes",
+        "label": "Número de integrantes",
+        "value": "1"
+      }
+    ],
+    "documents": [
+      {
+        "key": "ficha_resumen",
+        "label": "Ficha de resumen del proyecto",
+        "fileName": "ficha_resumen_100175848.pdf",
+        "size": 446000,
+        "status": "pendiente"
+      }
+    ],
+    "requirements": [
+      {
+        "id": "REQ-AVANCE-60",
+        "name": "Avance académico mínimo",
+        "expected": "≥ 60 %",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-COMPONENTE-INV",
+        "name": "Componente investigativo",
+        "expected": "Cursando o aprobado",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-ACADEMICO",
+        "name": "Aval académico del programa",
+        "expected": "Aval del programa",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-FINANCIERO",
+        "name": "Aval financiero",
+        "expected": "Sello financiero",
+        "status": "no_cumple"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-08-04T10:02:00-05:00",
+        "action": "Preinscripción radicada",
+        "by": "Kevin Alexander Suárez Niño",
+        "comment": null
+      },
+      {
+        "date": "2026-08-31T11:11:00-05:00",
+        "action": "Bases remitidas al programa para aval académico y financiero",
+        "by": "Coordinación de Investigación y Creación",
+        "comment": null
+      },
+      {
+        "date": "2026-09-09T09:02:00-05:00",
+        "action": "Se solicitaron ajustes",
+        "by": "Coordinación de Investigación y Creación",
+        "comment": "El programa reporta aval financiero no aprobado. Por favor regularizar el sello financiero."
+      }
+    ],
+    "observations": ""
+  },
+  {
+    "id": "SOL-2026-0149",
+    "radicado": "OG-2026-0149",
+    "studentName": "Laura Daniela Ochoa Prieto",
+    "studentCode": "100176579",
+    "documentNumber": "1000071271",
+    "studentEmail": "lochoa19@estudiante.ibero.edu.co",
+    "program": "Administración en Salud",
+    "facultyCode": "FCS",
+    "faculty": "Facultad de Ciencias de la Salud",
+    "studyMode": "Virtual",
+    "level": "pregrado",
+    "gpa": 4.1,
+    "academicProgress": 80,
+    "researchGrade": 4.2,
+    "modalityId": "MOD-APD",
+    "modalityName": "Vinculación a proyecto docente como asistente de investigación",
+    "period": "202634",
+    "course": "Trabajo de Grado I",
+    "nrc": "34105",
+    "academicEndorsement": "aprobado",
+    "financialEndorsement": "aprobado",
+    "advisor": "Docente asesor FCS 2",
+    "status": "aprobada",
+    "submittedAt": "2026-08-02T13:37:00-05:00",
+    "updatedAt": "2026-09-09T09:02:00-05:00",
+    "details": [
+      {
+        "key": "areaInteres",
+        "label": "Área o temática de interés",
+        "value": "Gestión de servicios de salud"
+      },
+      {
+        "key": "esSemillerista",
+        "label": "¿Perteneces a un semillero de investigación?",
+        "value": "No"
+      }
+    ],
+    "documents": [],
+    "requirements": [
+      {
+        "id": "REQ-AVANCE-60",
+        "name": "Avance académico mínimo",
+        "expected": "≥ 60 %",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-COMPONENTE-INV",
+        "name": "Componente investigativo",
+        "expected": "Cursando o aprobado",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-DISPONIBILIDAD",
+        "name": "Disponibilidad de cupos",
+        "expected": "Cupo asignado por la Dirección",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-ACADEMICO",
+        "name": "Aval académico del programa",
+        "expected": "Aval del programa",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-FINANCIERO",
+        "name": "Aval financiero",
+        "expected": "Sello financiero",
+        "status": "cumple"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-08-02T13:37:00-05:00",
+        "action": "Preinscripción radicada",
+        "by": "Laura Daniela Ochoa Prieto",
+        "comment": null
+      },
+      {
+        "date": "2026-08-31T11:11:00-05:00",
+        "action": "Bases remitidas al programa para aval académico y financiero",
+        "by": "Coordinación de Investigación y Creación",
+        "comment": null
+      },
+      {
+        "date": "2026-09-09T09:02:00-05:00",
+        "action": "Aprobada y docente asignado",
+        "by": "Coordinación de Investigación y Creación",
+        "comment": "Cumple requisitos, avales académico y financiero aprobados. Se asigna docente asesor y se solicita creación de aula."
+      }
+    ],
+    "observations": ""
+  },
+  {
+    "id": "SOL-2026-0148",
+    "radicado": "OG-2026-0148",
+    "studentName": "Cristian David Patiño Arias",
+    "studentCode": "100177310",
+    "documentNumber": "1000079190",
+    "studentEmail": "cpatino20@estudiante.ibero.edu.co",
+    "program": "Seguridad y Salud en el Trabajo",
+    "facultyCode": "FCS",
+    "faculty": "Facultad de Ciencias de la Salud",
+    "studyMode": "Virtual",
+    "level": "pregrado",
+    "gpa": 3.4,
+    "academicProgress": 64,
+    "researchGrade": null,
+    "modalityId": "MOD-PP",
+    "modalityName": "Proyecto particular",
+    "period": "202634",
+    "course": "Procesos Investigativos",
+    "nrc": null,
+    "academicEndorsement": "pendiente",
+    "financialEndorsement": "pendiente",
+    "advisor": null,
+    "status": "pendiente",
+    "submittedAt": "2026-07-30T09:25:00-05:00",
+    "updatedAt": "2026-07-30T09:25:00-05:00",
+    "details": [
+      {
+        "key": "titulo",
+        "label": "Título tentativo del proyecto",
+        "value": "Riesgo psicosocial en conductores de transporte público"
+      },
+      {
+        "key": "lineaInvestigacion",
+        "label": "Línea institucional de investigación",
+        "value": "Seguridad y salud en el trabajo"
+      },
+      {
+        "key": "integrantes",
+        "label": "Número de integrantes",
+        "value": "3"
+      }
+    ],
+    "documents": [
+      {
+        "key": "ficha_resumen",
+        "label": "Ficha de resumen del proyecto",
+        "fileName": "ficha_resumen_100177310.pdf",
+        "size": 520000,
+        "status": "pendiente"
+      }
+    ],
+    "requirements": [
+      {
+        "id": "REQ-AVANCE-60",
+        "name": "Avance académico mínimo",
+        "expected": "≥ 60 %",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-COMPONENTE-INV",
+        "name": "Componente investigativo",
+        "expected": "Cursando o aprobado",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-ACADEMICO",
+        "name": "Aval académico del programa",
+        "expected": "Aval del programa",
+        "status": "pendiente"
+      },
+      {
+        "id": "REQ-AVAL-FINANCIERO",
+        "name": "Aval financiero",
+        "expected": "Sello financiero",
+        "status": "pendiente"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-07-30T09:25:00-05:00",
+        "action": "Preinscripción radicada",
+        "by": "Cristian David Patiño Arias",
+        "comment": null
+      }
+    ],
+    "observations": ""
+  },
+  {
+    "id": "SOL-2026-0147",
+    "radicado": "OG-2026-0147",
+    "studentName": "Daniela Fernanda Vargas Ruiz",
+    "studentCode": "100178041",
+    "documentNumber": "1000087109",
+    "studentEmail": "dvargas21@estudiante.ibero.edu.co",
+    "program": "Administración Logística",
+    "facultyCode": "FCE",
+    "faculty": "Facultad de Ciencias Empresariales",
+    "studyMode": "Presencial",
+    "level": "pregrado",
+    "gpa": 4.5,
+    "academicProgress": 77,
+    "researchGrade": 4.7,
+    "modalityId": "MOD-MON",
+    "modalityName": "Monitoria de investigación / innovación",
+    "period": "202620",
+    "course": "Trabajo de Grado I",
+    "nrc": "20188",
+    "academicEndorsement": "aprobado",
+    "financialEndorsement": "aprobado",
+    "advisor": "Docente asesor FCE 1",
+    "status": "aprobada",
+    "submittedAt": "2026-07-28T16:05:00-05:00",
+    "updatedAt": "2026-09-09T09:02:00-05:00",
+    "details": [
+      {
+        "key": "tipoMonitoria",
+        "label": "Tipo de monitoria",
+        "value": "Módulo / asignatura"
+      },
+      {
+        "key": "asignatura",
+        "label": "Asignatura o revista",
+        "value": "Procesos Investigativos"
+      },
+      {
+        "key": "docenteRecomienda",
+        "label": "Docente que te recomienda",
+        "value": "Docente de Administración Logística"
+      }
+    ],
+    "documents": [
+      {
+        "key": "recomendacion_docente",
+        "label": "Recomendación docente",
+        "fileName": "recomendacion_docente_100178041.pdf",
+        "size": 557000,
+        "status": "validado"
+      }
+    ],
+    "requirements": [
+      {
+        "id": "REQ-AVANCE-60",
+        "name": "Avance académico mínimo",
+        "expected": "≥ 60 %",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-COMPONENTE-INV",
+        "name": "Componente investigativo",
+        "expected": "Cursando o aprobado",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-PROMEDIO-38",
+        "name": "Promedio ponderado",
+        "expected": "≥ 3,8",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-RECOMENDACION",
+        "name": "Recomendación docente",
+        "expected": "Formato diligenciado y firmado",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-ACADEMICO",
+        "name": "Aval académico del programa",
+        "expected": "Aval del programa",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-FINANCIERO",
+        "name": "Aval financiero",
+        "expected": "Sello financiero",
+        "status": "cumple"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-07-28T16:05:00-05:00",
+        "action": "Preinscripción radicada",
+        "by": "Daniela Fernanda Vargas Ruiz",
+        "comment": null
+      },
+      {
+        "date": "2026-08-31T11:11:00-05:00",
+        "action": "Bases remitidas al programa para aval académico y financiero",
+        "by": "Coordinación de Investigación y Creación",
+        "comment": null
+      },
+      {
+        "date": "2026-09-09T09:02:00-05:00",
+        "action": "Aprobada y docente asignado",
+        "by": "Coordinación de Investigación y Creación",
+        "comment": "Cumple requisitos, avales académico y financiero aprobados. Se asigna docente asesor y se solicita creación de aula."
+      }
+    ],
+    "observations": ""
+  },
+  {
+    "id": "SOL-2026-0146",
+    "radicado": "OG-2026-0146",
+    "studentName": "Oscar Iván Moreno Galeano",
+    "studentCode": "100178772",
+    "documentNumber": "1000095028",
+    "studentEmail": "omoreno22@estudiante.ibero.edu.co",
+    "program": "Ingeniería de Software",
+    "facultyCode": "FI",
+    "faculty": "Facultad de Ingeniería",
+    "studyMode": "Virtual",
+    "level": "pregrado",
+    "gpa": 3.9,
+    "academicProgress": 75,
+    "researchGrade": 4.0,
+    "modalityId": "MOD-SEM",
+    "modalityName": "Proyecto de semillero de investigación o innovación",
+    "period": "202634",
+    "course": "Procesos Investigativos",
+    "nrc": null,
+    "academicEndorsement": "aprobado",
+    "financialEndorsement": "aprobado",
+    "advisor": null,
+    "status": "rechazada",
+    "submittedAt": "2026-07-25T11:11:00-05:00",
+    "updatedAt": "2026-09-09T09:02:00-05:00",
+    "details": [
+      {
+        "key": "semillero",
+        "label": "Nombre del semillero",
+        "value": "Semillero de Desarrollo de Software"
+      },
+      {
+        "key": "docenteSemillero",
+        "label": "Docente asesor del semillero",
+        "value": "Docente asesor de semillero FI"
+      },
+      {
+        "key": "titulo",
+        "label": "Título tentativo del proyecto",
+        "value": "Aplicación móvil para el seguimiento de hábitos de estudio"
+      },
+      {
+        "key": "integrantes",
+        "label": "Número de integrantes",
+        "value": "2"
+      }
+    ],
+    "documents": [
+      {
+        "key": "aval_semillero",
+        "label": "Aval del docente asesor del semillero",
+        "fileName": "aval_semillero_100178772.pdf",
+        "size": 594000,
+        "status": "validado"
+      }
+    ],
+    "requirements": [
+      {
+        "id": "REQ-AVANCE-60",
+        "name": "Avance académico mínimo",
+        "expected": "≥ 60 %",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-COMPONENTE-INV",
+        "name": "Componente investigativo",
+        "expected": "Cursando o aprobado",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-SEMILLERO",
+        "name": "Miembro activo de semillero",
+        "expected": "≥ 2 periodos consecutivos",
+        "status": "no_cumple"
+      },
+      {
+        "id": "REQ-AVAL-SEMILLERO",
+        "name": "Aval del docente asesor del semillero",
+        "expected": "Aval firmado",
+        "status": "pendiente"
+      },
+      {
+        "id": "REQ-AVAL-ACADEMICO",
+        "name": "Aval académico del programa",
+        "expected": "Aval del programa",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-FINANCIERO",
+        "name": "Aval financiero",
+        "expected": "Sello financiero",
+        "status": "cumple"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-07-25T11:11:00-05:00",
+        "action": "Preinscripción radicada",
+        "by": "Oscar Iván Moreno Galeano",
+        "comment": null
+      },
+      {
+        "date": "2026-08-31T11:11:00-05:00",
+        "action": "Bases remitidas al programa para aval académico y financiero",
+        "by": "Coordinación de Investigación y Creación",
+        "comment": null
+      },
+      {
+        "date": "2026-09-09T09:02:00-05:00",
+        "action": "No cumple requisitos",
+        "by": "Coordinación de Investigación y Creación",
+        "comment": "No acredita dos periodos académicos consecutivos como miembro activo del semillero (art. 52)."
+      }
+    ],
+    "observations": "Trabajo en jornada diurna; solicito, si es posible, asesorías en horario nocturno."
+  },
+  {
+    "id": "SOL-2026-0145",
+    "radicado": "OG-2026-0145",
+    "studentName": "Yuliana Andrea Rincón Mora",
+    "studentCode": "100179503",
+    "documentNumber": "1000102947",
+    "studentEmail": "yrincon23@estudiante.ibero.edu.co",
+    "program": "Psicología",
+    "facultyCode": "FCHS",
+    "faculty": "Facultad de Ciencias Humanas y Sociales",
+    "studyMode": "Presencial",
+    "level": "pregrado",
+    "gpa": 4.0,
+    "academicProgress": 82,
+    "researchGrade": 4.3,
+    "modalityId": "MOD-PP",
+    "modalityName": "Proyecto particular",
+    "period": "202620",
+    "course": "Trabajo de Grado II",
+    "nrc": "20402",
+    "academicEndorsement": "aprobado",
+    "financialEndorsement": "aprobado",
+    "advisor": "Docente asesor FCHS 1",
+    "status": "aprobada",
+    "submittedAt": "2026-07-22T14:50:00-05:00",
+    "updatedAt": "2026-09-09T09:02:00-05:00",
+    "details": [
+      {
+        "key": "titulo",
+        "label": "Título tentativo del proyecto",
+        "value": "Factores asociados a la deserción en estudiantes de primer semestre"
+      },
+      {
+        "key": "lineaInvestigacion",
+        "label": "Línea institucional de investigación",
+        "value": "Psicología educativa"
+      },
+      {
+        "key": "integrantes",
+        "label": "Número de integrantes",
+        "value": "2"
+      }
+    ],
+    "documents": [],
+    "requirements": [
+      {
+        "id": "REQ-AVANCE-60",
+        "name": "Avance académico mínimo",
+        "expected": "≥ 60 %",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-COMPONENTE-INV",
+        "name": "Componente investigativo",
+        "expected": "Cursando o aprobado",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-ACADEMICO",
+        "name": "Aval académico del programa",
+        "expected": "Aval del programa",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-AVAL-FINANCIERO",
+        "name": "Aval financiero",
+        "expected": "Sello financiero",
+        "status": "cumple"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-07-22T14:50:00-05:00",
+        "action": "Preinscripción radicada",
+        "by": "Yuliana Andrea Rincón Mora",
+        "comment": null
+      },
+      {
+        "date": "2026-08-31T11:11:00-05:00",
+        "action": "Bases remitidas al programa para aval académico y financiero",
+        "by": "Coordinación de Investigación y Creación",
+        "comment": null
+      },
+      {
+        "date": "2026-09-09T09:02:00-05:00",
+        "action": "Aprobada y docente asignado",
+        "by": "Coordinación de Investigación y Creación",
+        "comment": "Cumple requisitos, avales académico y financiero aprobados. Se asigna docente asesor y se solicita creación de aula."
+      }
+    ],
+    "observations": ""
+  },
+  {
+    "id": "SOL-2026-0144",
+    "radicado": "OG-2026-0144",
+    "studentName": "Brayan Steven Cifuentes López",
+    "studentCode": "100180234",
+    "documentNumber": "1000110866",
+    "studentEmail": "bcifuentes24@estudiante.ibero.edu.co",
+    "program": "Administración Financiera",
+    "facultyCode": "FCE",
+    "faculty": "Facultad de Ciencias Empresariales",
+    "studyMode": "Virtual",
+    "level": "pregrado",
+    "gpa": 3.6,
+    "academicProgress": 69,
+    "researchGrade": null,
+    "modalityId": "MOD-APD",
+    "modalityName": "Vinculación a proyecto docente como asistente de investigación",
+    "period": "202634",
+    "course": "Procesos Investigativos",
+    "nrc": null,
+    "academicEndorsement": "pendiente",
+    "financialEndorsement": "pendiente",
+    "advisor": null,
+    "status": "pendiente",
+    "submittedAt": "2026-07-20T10:40:00-05:00",
+    "updatedAt": "2026-07-20T10:40:00-05:00",
+    "details": [
+      {
+        "key": "areaInteres",
+        "label": "Área o temática de interés",
+        "value": "Finanzas para emprendimientos"
+      },
+      {
+        "key": "esSemillerista",
+        "label": "¿Perteneces a un semillero de investigación?",
+        "value": "No"
+      }
+    ],
+    "documents": [],
+    "requirements": [
+      {
+        "id": "REQ-AVANCE-60",
+        "name": "Avance académico mínimo",
+        "expected": "≥ 60 %",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-COMPONENTE-INV",
+        "name": "Componente investigativo",
+        "expected": "Cursando o aprobado",
+        "status": "cumple"
+      },
+      {
+        "id": "REQ-DISPONIBILIDAD",
+        "name": "Disponibilidad de cupos",
+        "expected": "Cupo asignado por la Dirección",
+        "status": "pendiente"
+      },
+      {
+        "id": "REQ-AVAL-ACADEMICO",
+        "name": "Aval académico del programa",
+        "expected": "Aval del programa",
+        "status": "pendiente"
+      },
+      {
+        "id": "REQ-AVAL-FINANCIERO",
+        "name": "Aval financiero",
+        "expected": "Sello financiero",
+        "status": "pendiente"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-07-20T10:40:00-05:00",
+        "action": "Preinscripción radicada",
+        "by": "Brayan Steven Cifuentes López",
+        "comment": null
+      }
+    ],
+    "observations": ""
+  }
+]

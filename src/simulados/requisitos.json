@@ -1,0 +1,98 @@
+[
+  {
+    "id": "REQ-AVANCE-60",
+    "name": "Avance académico mínimo",
+    "description": "Haber aprobado al menos el 60 % de los requisitos académicos del plan de estudios para iniciar el proceso de opción de grado.",
+    "source": "Comunicado de la Coordinación de Investigación y Creación",
+    "type": "auto",
+    "mandatory": true,
+    "unit": "%",
+    "expected": "≥ 60 %",
+    "rule": { "field": "academicProgress", "op": ">=", "value": 60 }
+  },
+  {
+    "id": "REQ-COMPONENTE-INV",
+    "name": "Componente investigativo",
+    "description": "Estar cursando o haber aprobado Procesos Investigativos o Investigación I y II, según corresponda en tu plan de estudios.",
+    "source": "Res. 617 de 2024, art. 26 parágrafo 5",
+    "type": "auto",
+    "mandatory": true,
+    "expected": "Cursando o aprobado",
+    "rule": { "field": "researchCourseStatus", "op": "in", "value": ["cursando", "aprobado"] }
+  },
+  {
+    "id": "REQ-PROMEDIO-38",
+    "name": "Promedio ponderado",
+    "description": "Tener promedio ponderado mínimo de 3,8.",
+    "source": "Res. 617 de 2024, arts. 60 y 64",
+    "type": "auto",
+    "mandatory": true,
+    "expected": "≥ 3,8",
+    "rule": { "field": "gpa", "op": ">=", "value": 3.8 }
+  },
+  {
+    "id": "REQ-SEMILLERO",
+    "name": "Miembro activo de semillero",
+    "description": "Ser miembro activo de un semillero con aval institucional durante mínimo dos periodos académicos consecutivos.",
+    "source": "Res. 617 de 2024, art. 52",
+    "type": "auto",
+    "mandatory": true,
+    "unit": " periodos",
+    "expected": "≥ 2 periodos consecutivos",
+    "rule": { "field": "seedbedPeriods", "op": ">=", "value": 2 }
+  },
+  {
+    "id": "REQ-AVAL-ACADEMICO",
+    "name": "Aval académico del programa",
+    "description": "El programa académico valida tu estado académico una vez se cierre la inscripción.",
+    "source": "Res. 617 de 2024, art. 28 parágrafo 3",
+    "type": "manual",
+    "mandatory": true,
+    "expected": "Aval del programa"
+  },
+  {
+    "id": "REQ-AVAL-FINANCIERO",
+    "name": "Aval financiero",
+    "description": "Verificación del cumplimiento del requisito financiero (sello financiero) por parte del programa.",
+    "source": "Validación de requisitos · Coordinación de Investigación y Creación",
+    "type": "manual",
+    "mandatory": true,
+    "expected": "Sello financiero"
+  },
+  {
+    "id": "REQ-RECOMENDACION",
+    "name": "Recomendación docente",
+    "description": "Recomendación de un docente que explique por qué eres un candidato idóneo. Para monitoria de revista, la remite el editor en jefe.",
+    "source": "Res. 617 de 2024, art. 60 literal c",
+    "type": "manual",
+    "mandatory": true,
+    "expected": "Formato diligenciado y firmado"
+  },
+  {
+    "id": "REQ-CARTA-INTENCION",
+    "name": "Carta de intención",
+    "description": "Carta de intención para realizar la pasantía investigativa en la institución aliada de destino.",
+    "source": "Res. 617 de 2024, art. 64 literal c",
+    "type": "manual",
+    "mandatory": true,
+    "expected": "Carta de la institución aliada"
+  },
+  {
+    "id": "REQ-AVAL-SEMILLERO",
+    "name": "Aval del docente asesor del semillero",
+    "description": "Aval del docente asesor del semillero para postular el proyecto como opción de grado.",
+    "source": "Res. 617 de 2024, art. 52 literal c",
+    "type": "manual",
+    "mandatory": true,
+    "expected": "Aval firmado"
+  },
+  {
+    "id": "REQ-DISPONIBILIDAD",
+    "name": "Disponibilidad de cupos",
+    "description": "La asignación depende de los proyectos docentes activos y los cupos disponibles. Tienen prelación los miembros activos de semilleros.",
+    "source": "Res. 617 de 2024, art. 47",
+    "type": "manual",
+    "mandatory": true,
+    "expected": "Cupo asignado por la Dirección"
+  }
+]

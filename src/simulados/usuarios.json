@@ -1,0 +1,19 @@
+[
+  {
+    "id": "USR-001",
+    "email": "vruizc12@estudiante.ibero.edu.co",
+    "password": "Estudiante2026*",
+    "role": "student",
+    "name": "Valentina Ruiz Castañeda",
+    "studentId": "EST-001",
+    "position": "Estudiante · Administración Logística"
+  },
+  {
+    "id": "USR-900",
+    "email": "coord.investigaciones@academico.ibero.edu.co",
+    "password": "Coordinacion2026*",
+    "role": "admin",
+    "name": "Coordinación de Investigación y Creación",
+    "position": "Dirección de Investigación y Transferencia"
+  }
+]

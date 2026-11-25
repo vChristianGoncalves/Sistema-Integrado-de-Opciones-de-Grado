@@ -1,0 +1,23 @@
+[
+  {
+    "id": "EST-001",
+    "code": "100184512",
+    "documentType": "CC",
+    "documentNumber": "1.019.874.230",
+    "fullName": "Valentina Ruiz Castañeda",
+    "email": "vruizc12@estudiante.ibero.edu.co",
+    "phone": "+57 312 450 7781",
+    "facultyCode": "FCE",
+    "faculty": "Facultad de Ciencias Empresariales",
+    "program": "Administración Logística",
+    "level": "pregrado",
+    "studyMode": "Presencial",
+    "semester": 6,
+    "gpa": 3.9,
+    "academicProgress": 68,
+    "researchCourse": "Procesos Investigativos",
+    "researchCourseStatus": "cursando",
+    "seedbedPeriods": 1,
+    "academicPeriod": "202620"
+  }
+]

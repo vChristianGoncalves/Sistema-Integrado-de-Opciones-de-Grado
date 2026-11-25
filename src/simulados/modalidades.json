@@ -1,0 +1,182 @@
+[
+  {
+    "id": "MOD-PP",
+    "code": "PP",
+    "name": "Proyecto particular",
+    "shortName": "Proyecto particular",
+    "description": "Propones y desarrollas un proyecto de investigación o innovación que plantea alternativas de solución a una necesidad disciplinar, profesional, social o cultural. Puedes dar continuidad al proyecto trabajado en Procesos Investigativos o Investigación I y II.",
+    "icon": "Lightbulb",
+    "duration": "2 periodos académicos",
+    "members": "Individual o hasta 3 estudiantes",
+    "legalBasis": "Res. 617 de 2024, arts. 34 a 43",
+    "levels": ["pregrado", "posgrado"],
+    "excludeFaculties": [],
+    "slots": null,
+    "slotsTaken": 0,
+    "requirementIds": ["REQ-AVANCE-60", "REQ-COMPONENTE-INV", "REQ-AVAL-ACADEMICO", "REQ-AVAL-FINANCIERO"],
+    "fields": [
+      { "key": "titulo", "label": "Título tentativo del proyecto", "type": "text", "wide": true, "required": true, "placeholder": "Ej.: Optimización de inventarios en pymes del sector logístico de Bogotá" },
+      { "key": "lineaInvestigacion", "label": "Línea institucional de investigación", "type": "text", "required": true, "placeholder": "Línea con la que se vincula el proyecto" },
+      { "key": "integrantes", "label": "Número de integrantes", "type": "select", "required": true, "options": ["1", "2", "3"] },
+      { "key": "coautores", "label": "Nombres e ID de los coautores", "type": "textarea", "wide": true, "required": false, "placeholder": "Solo si el proyecto es grupal (máximo 3 estudiantes)." },
+      { "key": "docenteSugerido", "label": "Docente asesor sugerido", "type": "text", "required": false, "placeholder": "Opcional. La asignación la realiza el CIiC." }
+    ],
+    "documents": [
+      { "key": "ficha_resumen", "label": "Ficha de resumen del proyecto", "hint": "Opcional en esta etapa. Se formaliza en Procesos Investigativos.", "accept": ".pdf,.docx", "maxSizeMB": 10, "required": false }
+    ],
+    "finalRequirements": [
+      "Informe final del proyecto",
+      "Resumen Analítico de Investigación (RAI)",
+      "Mecanismo de divulgación: sustentación pública, socialización en evento científico-académico o publicación de artículo",
+      "Data set (datos generados en la investigación)",
+      "Aval ético",
+      "Contrato de cesión de derechos firmado por todos los autores"
+    ]
+  },
+  {
+    "id": "MOD-SEM",
+    "code": "SEM",
+    "name": "Proyecto de semillero de investigación o innovación",
+    "shortName": "Proyecto de semillero",
+    "description": "Propones un proyecto en el marco del semillero en el que estás activo. Dirigida a estudiantes adscritos y activos en un semillero con aval institucional durante mínimo dos periodos académicos consecutivos.",
+    "icon": "Sprout",
+    "duration": "2 periodos académicos",
+    "members": "Individual o hasta 5 estudiantes",
+    "legalBasis": "Res. 617 de 2024, arts. 51 a 58",
+    "levels": ["pregrado"],
+    "excludeFaculties": [],
+    "slots": null,
+    "slotsTaken": 0,
+    "requirementIds": ["REQ-AVANCE-60", "REQ-COMPONENTE-INV", "REQ-SEMILLERO", "REQ-AVAL-SEMILLERO", "REQ-AVAL-ACADEMICO", "REQ-AVAL-FINANCIERO"],
+    "fields": [
+      { "key": "semillero", "label": "Nombre del semillero", "type": "text", "required": true, "placeholder": "Semillero en el que estás activo" },
+      { "key": "docenteSemillero", "label": "Docente asesor del semillero", "type": "text", "required": true, "placeholder": "Nombre completo" },
+      { "key": "titulo", "label": "Título tentativo del proyecto", "type": "text", "wide": true, "required": true, "placeholder": "Título del proyecto del semillero" },
+      { "key": "integrantes", "label": "Número de integrantes", "type": "select", "required": true, "options": ["1", "2", "3", "4", "5"] }
+    ],
+    "documents": [
+      { "key": "aval_semillero", "label": "Aval del docente asesor del semillero", "hint": "Firmado por el docente asesor del semillero.", "accept": ".pdf", "maxSizeMB": 5, "required": true }
+    ],
+    "finalRequirements": [
+      "Informe final del proyecto",
+      "Resumen Analítico de Investigación (RAI)",
+      "Mecanismo de divulgación: sustentación pública, Encuentro Institucional de Semilleros, evento científico-académico o publicación de artículo",
+      "Data set (datos generados en la investigación)",
+      "Aval ético"
+    ]
+  },
+  {
+    "id": "MOD-APD",
+    "code": "APD",
+    "name": "Vinculación a proyecto docente como asistente de investigación",
+    "shortName": "Asistente de investigación",
+    "description": "Te vinculas a un proyecto de investigación vigente liderado por un docente investigador y realizas las tareas que te asigne el investigador principal. Sujeto a disponibilidad de proyectos, cupos y afinidad temática.",
+    "icon": "Users",
+    "duration": "2 periodos académicos",
+    "members": "Asignación por cupos",
+    "legalBasis": "Res. 617 de 2024, arts. 44 a 50",
+    "levels": ["pregrado", "posgrado"],
+    "excludeFaculties": ["FE"],
+    "slots": null,
+    "slotsTaken": 0,
+    "requirementIds": ["REQ-AVANCE-60", "REQ-COMPONENTE-INV", "REQ-DISPONIBILIDAD", "REQ-AVAL-ACADEMICO", "REQ-AVAL-FINANCIERO"],
+    "fields": [
+      { "key": "areaInteres", "label": "Área o temática de interés", "type": "text", "wide": true, "required": true, "placeholder": "Ej.: Cadena de suministro, salud pública, educación inclusiva…" },
+      { "key": "esSemillerista", "label": "¿Perteneces a un semillero de investigación?", "type": "select", "required": true, "options": ["Sí", "No"] }
+    ],
+    "documents": [],
+    "finalRequirements": [
+      "Acta de instalación con los docentes investigadores",
+      "Formato de registro de reuniones",
+      "Productos o entregables definidos por el investigador principal o coinvestigador"
+    ]
+  },
+  {
+    "id": "MOD-MON",
+    "code": "MON",
+    "name": "Monitoria de investigación / innovación",
+    "shortName": "Monitoria",
+    "description": "Apoyas el proceso académico y administrativo del docente de un módulo del ámbito de Transformación Social y Digital o de un módulo con elementos de investigación. También puedes ser monitor de una Revista Institucional.",
+    "icon": "BookOpenCheck",
+    "duration": "2 periodos académicos",
+    "members": "Un monitor por módulo",
+    "legalBasis": "Res. 617 de 2024, arts. 59 a 62",
+    "levels": ["pregrado"],
+    "excludeFaculties": ["FE"],
+    "slots": 12,
+    "slotsTaken": 9,
+    "requirementIds": ["REQ-AVANCE-60", "REQ-COMPONENTE-INV", "REQ-PROMEDIO-38", "REQ-RECOMENDACION", "REQ-AVAL-ACADEMICO", "REQ-AVAL-FINANCIERO"],
+    "fields": [
+      { "key": "tipoMonitoria", "label": "Tipo de monitoria", "type": "select", "required": true, "options": ["Módulo / asignatura", "Revista Institucional"] },
+      { "key": "asignatura", "label": "Asignatura o revista", "type": "text", "required": true, "placeholder": "Nombre de la asignatura o revista" },
+      { "key": "docenteRecomienda", "label": "Docente que te recomienda", "type": "text", "required": true, "placeholder": "Nombre completo del docente o editor" }
+    ],
+    "documents": [
+      { "key": "recomendacion_docente", "label": "Recomendación docente", "hint": "Formato institucional diligenciado y firmado.", "accept": ".pdf", "maxSizeMB": 5, "required": true }
+    ],
+    "finalRequirements": [
+      "Propuesta técnica de la monitoria",
+      "Acuerdo de confidencialidad y buena voluntad",
+      "Productos o entregables del plan de trabajo",
+      "Informe de gestión (ficha técnica) en formato institucional"
+    ]
+  },
+  {
+    "id": "MOD-PAS",
+    "code": "PAS",
+    "name": "Pasantía investigativa",
+    "shortName": "Pasantía investigativa",
+    "description": "Realizas una estancia de un mes a un periodo académico en una institución aliada, nacional o internacional, participando en la recolección o análisis de datos de un proyecto de investigación. Sujeta a la disponibilidad de plazas y fechas de convocatoria.",
+    "icon": "Plane",
+    "duration": "1 mes a 1 periodo académico",
+    "members": "Plazas definidas por los programas",
+    "legalBasis": "Res. 617 de 2024, arts. 63 a 66",
+    "levels": ["pregrado"],
+    "excludeFaculties": ["FE"],
+    "slots": 6,
+    "slotsTaken": 6,
+    "requirementIds": ["REQ-AVANCE-60", "REQ-COMPONENTE-INV", "REQ-PROMEDIO-38", "REQ-CARTA-INTENCION", "REQ-AVAL-ACADEMICO", "REQ-AVAL-FINANCIERO"],
+    "fields": [
+      { "key": "institucionAliada", "label": "Institución aliada de destino", "type": "text", "required": true, "placeholder": "Universidad o centro de investigación" },
+      { "key": "ubicacion", "label": "Ciudad y país", "type": "text", "required": true, "placeholder": "Ej.: Guadalajara, México" },
+      { "key": "modalidadPasantia", "label": "Modalidad de la pasantía", "type": "select", "required": true, "options": ["Presencial", "Virtual"] },
+      { "key": "investigadorContacto", "label": "Investigador de contacto", "type": "text", "required": true, "placeholder": "Nombre del investigador en la institución aliada" },
+      { "key": "correoContacto", "label": "Correo del investigador", "type": "email", "required": false, "placeholder": "investigador@institucion.edu" }
+    ],
+    "documents": [
+      { "key": "carta_intencion", "label": "Carta de intención", "hint": "Expedida por la institución o grupo de destino.", "accept": ".pdf", "maxSizeMB": 5, "required": true }
+    ],
+    "finalRequirements": [
+      "Acta de instalación con el plan de trabajo",
+      "Carta de aceptación del grupo o docente investigador de destino",
+      "Productos o entregables del plan de trabajo",
+      "Informe de gestión en formato institucional",
+      "Constancia de cumplimiento de la pasantía"
+    ]
+  },
+  {
+    "id": "MOD-COI",
+    "code": "COI",
+    "name": "Vinculación a proyecto docente como coinvestigador",
+    "shortName": "Coinvestigador",
+    "description": "Para estudiantes de posgrado (especialización o maestría): te vinculas como coinvestigador a un proyecto docente y desarrollas el plan de trabajo acordado con el investigador principal hasta la finalización del proyecto.",
+    "icon": "Microscope",
+    "duration": "Duración del proyecto",
+    "members": "Según el proyecto",
+    "legalBasis": "Res. 617 de 2024, arts. 44, 46, 48 y 50",
+    "levels": ["posgrado"],
+    "excludeFaculties": [],
+    "slots": null,
+    "slotsTaken": 0,
+    "requirementIds": ["REQ-COMPONENTE-INV", "REQ-DISPONIBILIDAD", "REQ-AVAL-ACADEMICO", "REQ-AVAL-FINANCIERO"],
+    "fields": [
+      { "key": "proyectoInteres", "label": "Proyecto docente de interés", "type": "text", "wide": true, "required": true, "placeholder": "Nombre del proyecto o del investigador principal" }
+    ],
+    "documents": [],
+    "finalRequirements": [
+      "Informe final del proyecto",
+      "Resumen Analítico de Investigación (RAI)",
+      "Mecanismo de divulgación"
+    ]
+  }
+]
