@@ -1,4 +1,4 @@
-# SIA-OG · Sistema Integrado de Opciones de Grado
+# Sistema Integrado de Opciones de Grado
 
 Frontend para la **inscripción y gestión de opciones de grado en modalidad investigativa** de la Corporación Universitaria Iberoamericana (Dirección de Investigación y Transferencia · Coordinación de Investigación y Creación).
 
